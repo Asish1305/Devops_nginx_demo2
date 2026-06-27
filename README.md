@@ -11,3 +11,5 @@ sudo systemctl start nginx
 sudo systemctl enable nginx
 
 systemctl status nginx
+
+You can now staet using nginx in you local by using privet key.
