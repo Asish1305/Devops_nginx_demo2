@@ -6,7 +6,7 @@
 
 # Install the nginx
 
-echo "========nginx installation========
+echo "========nginx installation========"
 
 sudo apt-get update 
 
